@@ -7,7 +7,7 @@ version: '1.0.{build}'
 
 environment:
   matrix:
-    - nodejs_version: '1.2'
+    - nodejs_version: '0.10'
     - nodejs_version: '0.12'
 
 install:
